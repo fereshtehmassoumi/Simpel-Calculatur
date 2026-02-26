@@ -1,4 +1,4 @@
-# Simpel-Calculatur
+# Simple-Calculator
 Calculator with c# 
 # Simple Calculator (C#)
 
